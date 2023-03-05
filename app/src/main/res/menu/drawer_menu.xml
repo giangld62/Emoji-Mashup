@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="@null"
+        app:actionLayout="@layout/drawer_item" />
+    <item
+        android:id="@+id/share_app"
+        android:title="@null"
+        app:actionLayout="@layout/drawer_item" />
+    <item
+        android:id="@+id/rate_app"
+        android:title="@null"
+        app:actionLayout="@layout/drawer_item" />
+    <item
+        android:id="@+id/feedback"
+        android:title="@null"
+        app:actionLayout="@layout/drawer_item" />
+    <item
+        android:id="@+id/privacy_policy"
+        android:title="@null"
+        app:actionLayout="@layout/drawer_item" />
+
+    <item
+        android:id="@+id/app_version"
+        android:title="@null"
+        app:actionLayout="@layout/drawer_item" />
+
+</menu>

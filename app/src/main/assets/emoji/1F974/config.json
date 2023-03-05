@@ -1,0 +1,45 @@
+{
+  "emojiName": "Woozy face",
+  "face": {
+    "link": "file:///android_asset/emoji/1F974/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F974/left_eye.webp",
+      "width":        0.241,
+      "height":       0.09,
+      "marginStart":  0.184,
+      "marginTop":0.524
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.437
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F974/left_eyebrow.webp",
+      "width":        0.216,
+      "height":       0.076,
+      "marginStart":  0.158,
+      "marginTop":0.375
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F974/right_eyebrow.webp",
+      "width":        0.241,
+      "height":       0.094,
+      "marginStart":  0.566,
+      "marginTop":0.28
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F974/mouth.webp",
+    "width":        0.64,
+    "height":       0.208,
+    "marginStart":  0.18,
+    "marginTop":0.626
+  }
+}

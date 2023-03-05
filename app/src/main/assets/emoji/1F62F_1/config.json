@@ -1,0 +1,45 @@
+{
+  "emojiName": "Hushed face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.146,
+      "marginStart": 0.288,
+      "marginTop": 0.376
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.146,
+      "marginStart": 0.615,
+      "marginTop": 0.376
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width": 0.207,
+      "height": 0.1,
+      "marginStart": 0.182,
+      "marginTop": 0.205
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width": 0.207,
+      "height": 0.1,
+      "marginStart": 0.611,
+      "marginTop": 0.205
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F62F_1/mouth.webp",
+    "width": 0.181,
+    "height": 0.181,
+    "marginStart": 0.409,
+    "marginTop": 0.659
+  }
+}

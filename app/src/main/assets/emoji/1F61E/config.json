@@ -1,0 +1,45 @@
+{
+  "emojiName": "Slightly frowning face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.146,
+      "marginStart": 0.289,
+      "marginTop": 0.381
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.146,
+      "marginStart": 0.619,
+      "marginTop": 0.381
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F61E/left_eyebrow.webp",
+      "width": 0.219,
+      "height": 0.057,
+      "marginStart": 0.197,
+      "marginTop": 0.273
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F61E/right_eyebrow.webp",
+      "width": 0.219,
+      "height": 0.057,
+      "marginStart": 0.584,
+      "marginTop": 0.273
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F61E/mouth.webp",
+    "width": 0.43,
+    "height": 0.124,
+    "marginStart": 0.285,
+    "marginTop": 0.678
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emojiName": "Zany face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp",
+    "rotationAngle": -17.5
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F92A/left_eye.webp",
+      "width":        0.283,
+      "height":       0.283,
+      "marginStart":  0.165,
+      "marginTop":0.237
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F92A/right_eye.webp",
+      "width":        0.283,
+      "height":       0.283,
+      "marginStart":  0.552,
+      "marginTop":0.237
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F92A/mouth.webp",
+    "width":        0.711,
+    "height":       0.387,
+    "marginStart":  0.145,
+    "marginTop":0.582
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "emojiName": "Weary face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F62B/left_eye.webp",
+      "width":        0.268 ,
+      "height":       0.205 ,
+      "marginStart":  0.16  ,
+      "marginTop":0.34
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F62B/right_eye.webp",
+      "width":        0.268,
+      "height":       0.205,
+      "marginStart":  0.572,
+      "marginTop":0.34
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/left_eyebrow.webp",
+      "width":        0.213,
+      "height":       0.086,
+      "marginStart":  0.175,
+      "marginTop":0.182
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/right_eyebrow.webp",
+      "width":        0.213,
+      "height":       0.086,
+      "marginStart":  0.611,
+      "marginTop":0.182
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F629/mouth.webp",
+    "width":        0.548,
+    "height":       0.324,
+    "marginStart":  0.226,
+    "marginTop":0.566
+  }
+}

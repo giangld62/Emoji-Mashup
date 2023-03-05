@@ -1,0 +1,45 @@
+{
+  "emojiName": "Vomiting face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F92E/left_eye.webp",
+      "width":        0.241,
+      "height":       0.233,
+      "marginStart":  0.182,
+      "marginTop":0.311
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F92E/right_eye.webp",
+      "width":        0.241,
+      "height":       0.233,
+      "marginStart":  0.577,
+      "marginTop":0.311
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow5.webp",
+      "width":        0.206,
+      "height":       0.104,
+      "marginStart":  0.178,
+      "marginTop":0.129
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow5.webp",
+      "width":        0.206,
+      "height":       0.104,
+      "marginStart":  0.616,
+      "marginTop":0.129
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F92E/mouth.webp",
+    "width":        0.887,
+    "height":       0.593,
+    "marginStart":  0.044,
+    "marginTop":0.542
+  }
+}

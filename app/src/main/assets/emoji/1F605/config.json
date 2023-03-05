@@ -1,0 +1,52 @@
+{
+  "emojiName": "Grinning face with sweat",
+  "face": {
+    "link": "file:///android_asset/emoji/1F605/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F973/left_eye.webp",
+      "width":        0.199,
+      "height":       0.111,
+      "marginStart":  0.207,
+      "marginTop":    0.405
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F973/right_eye.webp",
+      "width":        0.199,
+      "height":       0.111,
+      "marginStart":  0.594,
+      "marginTop":    0.405
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow4.webp",
+      "width":        0.189,
+      "height":       0.133,
+      "marginStart":  0.179,
+      "marginTop":    0.244
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow4.webp",
+      "width":        0.189,
+      "height":       0.133,
+      "marginStart":  0.632,
+      "marginTop":    0.244
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F920/mouth.webp",
+    "width":        0.71,
+    "height":       0.321,
+    "marginStart":  0.145,
+    "marginTop":    0.583
+  },
+  "sweat": {
+    "link": "file:///android_asset/emoji/1F605/sweat.webp",
+    "width":        0.241,
+    "height":       0.378,
+    "marginStart":  0.743,
+    "marginTop":    0.058
+  }
+}

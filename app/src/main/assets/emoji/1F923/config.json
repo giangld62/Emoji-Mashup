@@ -1,0 +1,53 @@
+{
+  "emojiName": "Rolling on the floor laughing",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp",
+    "rotationAngle": -22.45
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F623/left_eye.webp",
+      "width":        0.236,
+      "height":       0.215,
+      "marginStart":  0.183,
+      "marginTop":0.306
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F623/right_eye.webp",
+      "width":        0.236,
+      "height":       0.215,
+      "marginStart":  0.581,
+      "marginTop":0.306
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.211,
+      "height":       0.093,
+      "marginStart":  0.179,
+      "marginTop":0.165
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.211,
+      "height":       0.093,
+      "marginStart":  0.61,
+      "marginTop":0.165
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F920/mouth.webp",
+    "width":        0.71,
+    "height":       0.321,
+    "marginStart":  0.145,
+    "marginTop":0.583
+  },
+  "tear": {
+    "link": "file:///android_asset/emoji/1F923/tear.webp",
+    "width":        1.129,
+    "height":       0.283,
+    "marginStart":  -0.054,
+    "marginTop":0.445
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "emojiName": "Anxious face with sweat",
+  "face": {
+    "link": "file:///android_asset/emoji/1F630/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.147,
+      "marginStart": 0.289,
+      "marginTop": 0.374
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.147,
+      "marginStart": 0.615,
+      "marginTop": 0.374
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F630/left_eyebrow.webp",
+      "width": 0.201,
+      "height": 0.13,
+      "marginStart": 0.179,
+      "marginTop": 0.222
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F630/right_eyebrow.webp",
+      "width": 0.201,
+      "height": 0.13,
+      "marginStart": 0.619,
+      "marginTop": 0.222
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F630/mouth.webp",
+    "width": 0.33,
+    "height": 0.125,
+    "marginStart": 0.335,
+    "marginTop": 0.685
+  },
+  "sweat": {
+    "link": "file:///android_asset/emoji/1F630/sweat.webp",
+    "width": 0.241,
+    "height": 0.378,
+    "marginStart": 0.016,
+    "marginTop": 0.058
+  }
+}

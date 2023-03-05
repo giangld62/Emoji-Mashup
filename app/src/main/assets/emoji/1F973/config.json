@@ -1,0 +1,60 @@
+{
+  "emojiName": "Partying face",
+  "face": {
+    "link": "file:///android_asset/emoji/1F973/face.webp",
+    "ratio": 0.9727626459
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F973/left_eye.webp",
+      "width": 0.199,
+      "height": 0.111,
+      "marginStart": 0.207,
+      "marginTop": 0.405
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F973/right_eye.webp",
+      "width": 0.199,
+      "height": 0.111,
+      "marginStart": 0.594,
+      "marginTop": 0.405
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F973/left_eyebrow.webp",
+      "width": 0.217,
+      "height": 0.073,
+      "marginStart": 0.175,
+      "marginTop": 0.277
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F973/right_eyebrow.webp",
+      "width": 0.217,
+      "height": 0.073,
+      "marginStart": 0.609,
+      "marginTop": 0.277
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F973/mouth.webp",
+    "width":        0.09,
+    "height":       0.165,
+    "marginStart":  0.452,
+    "marginTop":    0.664
+  },
+  "hat": {
+    "link": "file:///android_asset/emoji/1F973/hat.webp",
+    "width": 0.398,
+    "height": 0.436,
+    "marginStart": -0.121,
+    "marginTop": -0.092
+  },
+  "mouthPart": {
+    "link": "file:///android_asset/emoji/1F973/mouth_part.webp",
+    "width":        0.529,
+    "height":       0.292,
+    "marginStart":  0.498,
+    "marginTop":0.49
+  }
+}

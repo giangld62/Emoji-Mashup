@@ -1,0 +1,36 @@
+{
+  "emojiName": "Cowboy hat face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F920/eye.webp",
+      "width":        0.108,
+      "height":       0.219,
+      "marginStart":  0.282,
+      "marginTop":    0.283
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F920/eye.webp",
+      "width":        0.108,
+      "height":       0.219,
+      "marginStart":  0.607,
+      "marginTop":    0.283
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F920/mouth.webp",
+    "width":        0.708,
+    "height":       0.324,
+    "marginStart":  0.145,
+    "marginTop":    0.588
+  },
+  "hat": {
+    "link": "file:///android_asset/emoji/1F920/hat.webp",
+    "width":        1.216,
+    "height":       0.456,
+    "marginStart":  -0.11,
+    "marginTop":    -0.123
+  }
+}

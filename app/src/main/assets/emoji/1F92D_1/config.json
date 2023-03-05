@@ -1,0 +1,45 @@
+{
+  "emojiName": "Face with hand over mouth",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.289,
+      "marginTop":0.376
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.376
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.207,
+      "height":       0.119,
+      "marginStart":  0.185,
+      "marginTop":0.228
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.207,
+      "height":       0.119,
+      "marginStart":  0.608,
+      "marginTop":0.228
+    }
+  },
+  "hand": {
+    "link": "file:///android_asset/emoji/1F92D_1/hand.webp",
+    "width":        1,
+    "height":       1,
+    "marginStart":  0,
+    "marginTop":0.075
+  }
+}

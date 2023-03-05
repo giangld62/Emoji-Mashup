@@ -1,0 +1,45 @@
+{
+  "emojiName": "Zipper-mouth face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.148,
+      "marginStart":  0.289,
+      "marginTop":0.379
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.148,
+      "marginStart":  0.615,
+      "marginTop":0.379
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F61E/left_eyebrow.webp",
+      "width":        0.219,
+      "height":       0.057,
+      "marginStart":  0.197,
+      "marginTop":0.273
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F61E/right_eyebrow.webp",
+      "width":        0.219,
+      "height":       0.057,
+      "marginStart":  0.584,
+      "marginTop":0.273
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F910/mouth.webp",
+    "width":        0.869,
+    "height":       0.398,
+    "marginStart":  0.065,
+    "marginTop":0.553
+  }
+}

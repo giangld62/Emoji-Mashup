@@ -1,0 +1,45 @@
+{
+  "emojiName": "Face with rolling eyes",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F644/eye.png",
+      "width":        0.283,
+      "height":       0.283,
+      "marginStart":  0.166,
+      "marginTop":0.329
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F644/eye.png",
+      "width":        0.283,
+      "height":       0.283,
+      "marginStart":  0.551,
+      "marginTop":0.329
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.202,
+      "height":       0.113,
+      "marginStart":  0.17,
+      "marginTop":0.201
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.202,
+      "height":       0.113,
+      "marginStart":  0.628,
+      "marginTop":0.201
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F97A/mouth.webp",
+    "width":        0.279,
+    "height":       0.067,
+    "marginStart":  0.36,
+    "marginTop":0.769
+  }
+}

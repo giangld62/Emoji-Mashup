@@ -1,0 +1,52 @@
+{
+  "emojiName": "Face with thermometer",
+  "face": {
+    "link": "file:///android_asset/emoji/1F912/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.289,
+      "marginTop":0.376
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.376
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.218,
+      "height":       0.092,
+      "marginStart":  0.192,
+      "marginTop":0.234
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.218,
+      "height":       0.092,
+      "marginStart":  0.59,
+      "marginTop":0.234
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F61F/mouth.webp",
+    "width":        0.387,
+    "height":       0.147,
+    "marginStart":  0.306,
+    "marginTop":0.674
+  },
+  "mouthPart": {
+    "link": "file:///android_asset/emoji/1F912/mouth_part.png",
+    "width":        0.445,
+    "height":       0.421,
+    "marginStart":  0.568,
+    "marginTop":0.416
+  }
+}

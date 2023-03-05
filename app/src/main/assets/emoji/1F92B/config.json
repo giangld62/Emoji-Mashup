@@ -1,0 +1,52 @@
+{
+  "emojiName": "Shushing face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.289,
+      "marginTop":0.266
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.266
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F627/left_eyebrow.webp",
+      "width":        0.193,
+      "height":       0.142,
+      "marginStart":  0.187,
+      "marginTop":0.123
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F627/right_eyebrow.webp",
+      "width":        0.193,
+      "height":       0.142,
+      "marginStart":  0.62,
+      "marginTop":0.123
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F92B/mouth.webp",
+    "width":        0.19,
+    "height":       0.083,
+    "marginStart":  0.405,
+    "marginTop":0.545
+  },
+  "hand": {
+    "link": "file:///android_asset/emoji/1F92B/hand.webp",
+    "width":        0.326,
+    "height":       0.522,
+    "marginStart":  0.349,
+    "marginTop":0.517
+  }
+}

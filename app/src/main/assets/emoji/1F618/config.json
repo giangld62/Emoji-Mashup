@@ -1,0 +1,52 @@
+{
+  "emojiName": "Face blowing a kiss",
+  "face": {
+    "link": "file:///android_asset/emoji/1F618/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.147,
+      "marginStart":  0.289,
+      "marginTop":0.408
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F618/right_eye.webp",
+      "width":        0.203,
+      "height":       0.081,
+      "marginStart":  0.579,
+      "marginTop":0.435
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F618/left_eyebrow.webp",
+      "width":        0.173,
+      "height":       0.152,
+      "marginStart":  0.187,
+      "marginTop":0.256
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F618/right_eyebrow.webp",
+      "width":        0.216,
+      "height":       0.078,
+      "marginStart":  0.596,
+      "marginTop":0.297
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F619/mouth.webp",
+    "width":        0.237,
+    "height":       0.231,
+    "marginStart":  0.482,
+    "marginTop":0.641
+  },
+  "mouthPart": {
+    "link": "file:///android_asset/emoji/1F618/heart.webp",
+    "width":        0.383,
+    "height":       0.369,
+    "marginStart":  0.6,
+    "marginTop":0.549
+  }
+}

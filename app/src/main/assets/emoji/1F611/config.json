@@ -1,0 +1,45 @@
+{
+  "emojiName": "Expressioless face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F611/eye.webp",
+      "width":        0.199,
+      "height":       0.071,
+      "marginStart":  0.237,
+      "marginTop":0.412
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F611/eye.webp",
+      "width":        0.199,
+      "height":       0.071,
+      "marginStart":  0.564,
+      "marginTop":0.412
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F61E/left_eyebrow.webp",
+      "width":        0.223,
+      "height":       0.066,
+      "marginStart":  0.21,
+      "marginTop":0.241
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F61E/right_eyebrow.webp",
+      "width":        0.223,
+      "height":       0.066,
+      "marginStart":  0.568,
+      "marginTop":0.241
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F610/mouth.webp",
+    "width":        0.468,
+    "height":       0.047,
+    "marginStart":  0.266,
+    "marginTop":0.671
+  }
+}

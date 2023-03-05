@@ -1,0 +1,52 @@
+{
+  "emojiName": "Cold face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.147,
+      "marginStart": 0.258,
+      "marginTop": 0.368
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.147,
+      "marginStart": 0.646,
+      "marginTop": 0.368
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width": 0.211,
+      "height": 0.092,
+      "marginStart": 0.179,
+      "marginTop": 0.208
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width": 0.211,
+      "height": 0.092,
+      "marginStart": 0.61,
+      "marginTop": 0.208
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F913/mouth.webp",
+    "width": 0.453,
+    "height": 0.138,
+    "marginStart": 0.274,
+    "marginTop": 0.677
+  },
+  "glasses": {
+    "link": "file:///android_asset/emoji/1F913/glasses.webp",
+    "width": 0.975,
+    "height": 0.366,
+    "marginStart": 0.012,
+    "marginTop": 0.27
+  }
+}

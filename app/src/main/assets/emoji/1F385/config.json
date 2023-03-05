@@ -1,0 +1,60 @@
+{
+  "emojiName": "Santa Claus",
+  "face": {
+    "link": "file:///android_asset/emoji/1F974/face.webp",
+    "ratio": 0.9937850104
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.147,
+      "marginStart":  0.289,
+      "marginTop":0.408
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F924/right_eye.webp",
+      "width":        0.203,
+      "height":       0.081,
+      "marginStart":  0.579,
+      "marginTop":0.435
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F385/left_eyebrow.webp",
+      "width":        0.173,
+      "height":       0.152,
+      "marginStart":  0.187,
+      "marginTop":0.256
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F385/right_eyebrow.webp",
+      "width":        0.216,
+      "height":       0.078,
+      "marginStart":  0.596,
+      "marginTop":0.297
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/263A_1/mouth.webp",
+    "width":        0.33,
+    "height":       0.152,
+    "marginStart":  0.335,
+    "marginTop":    0.702
+  },
+  "hat": {
+    "link": "file:///android_asset/emoji/1F385/hat.webp",
+    "width":       1.163094014 ,
+    "height":      1.06697469 ,
+    "marginStart": -0.02336967702 ,
+    "marginTop":   -0.1685407041
+  },
+   "beard": {
+    "link": "file:///android_asset/emoji/1F385/beard.png",
+    "width":       1.020942193,
+    "height":      0.9625465102,
+    "marginStart": -0.02267023246,
+    "marginTop":   0.2481089259
+  }
+}

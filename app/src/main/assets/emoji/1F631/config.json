@@ -1,0 +1,52 @@
+{
+  "emojiName": "Face screaming in fear",
+  "face": {
+    "link": "file:///android_asset/emoji/1F630/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F631/eye.webp",
+      "width":        0.262,
+      "height":       0.308,
+      "marginStart":  0.177,
+      "marginTop":0.258
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F631/eye.webp",
+      "width":        0.262,
+      "height":       0.308,
+      "marginStart":  0.562,
+      "marginTop":0.258
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F630/left_eyebrow.webp",
+      "width":        0.201,
+      "height":       0.13,
+      "marginStart":  0.18,
+      "marginTop":0.137
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F630/right_eyebrow.webp",
+      "width":        0.201,
+      "height":       0.13,
+      "marginStart":  0.619,
+      "marginTop":0.137
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F631/mouth.webp",
+    "width":        0.267,
+    "height":       0.329,
+    "marginStart":  0.366,
+    "marginTop":0.585
+  },
+  "hand": {
+    "link": "file:///android_asset/emoji/1F631/hand.webp",
+    "width":        1.06,
+    "height":       0.717,
+    "marginStart":  -0.03,
+    "marginTop":0.388
+  }
+}

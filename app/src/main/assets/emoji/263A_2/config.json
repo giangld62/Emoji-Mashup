@@ -1,0 +1,45 @@
+{
+  "emojiName": "Smiling face with smiling eyes",
+  "face": {
+    "link": "file:///android_asset/emoji/1F974/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F924/left_eye.webp",
+      "width":        0.225,
+      "height":       0.117,
+      "marginStart":  0.187,
+      "marginTop":0.36
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F924/right_eye.webp",
+      "width":        0.225,
+      "height":       0.117,
+      "marginStart":  0.588,
+      "marginTop":0.36
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.194,
+      "height":       0.126,
+      "marginStart":  0.134,
+      "marginTop":0.229
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.194,
+      "height":       0.126,
+      "marginStart":  0.672,
+      "marginTop":0.229
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F913/mouth.webp",
+    "width":        0.453,
+    "height":       0.138,
+    "marginStart":  0.274,
+    "marginTop":0.646
+  }
+}

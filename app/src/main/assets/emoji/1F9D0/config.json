@@ -1,0 +1,52 @@
+{
+  "emojiName": "Face with monocle",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.146,
+      "marginStart": 0.289,
+      "marginTop": 0.376
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.146,
+      "marginStart": 0.615,
+      "marginTop": 0.376
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F9D0/left_eyebrow.webp",
+      "width": 0.229,
+      "height": 0.079,
+      "marginStart": 0.21,
+      "marginTop": 0.284
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F9D0/right_eyebrow.webp",
+      "width": 0.231,
+      "height": 0.072,
+      "marginStart": 0.565,
+      "marginTop": 0.211
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F9D0/mouth.webp",
+    "width": 0.332,
+    "height": 0.071,
+    "marginStart": 0.334,
+    "marginTop": 0.743
+  },
+  "glasses": {
+    "link": "file:///android_asset/emoji/1F9D0/glasses.png",
+    "width": 0.431,
+    "height": 0.698,
+    "marginStart": 0.469,
+    "marginTop": 0.259
+  }
+}

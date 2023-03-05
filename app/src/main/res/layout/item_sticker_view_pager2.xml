@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/view_background"
+        android:layout_width="305dp"
+        android:layout_height="305dp"
+        android:background="@drawable/bg_white_40_percent_radius_28"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/iv_favorite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:focusable="true"
+        android:src="@drawable/fav_icon1"
+        android:translationX="10dp"
+        android:translationY="-4dp"
+        app:layout_constraintBottom_toBottomOf="@id/view_background"
+        app:layout_constraintEnd_toEndOf="@id/view_background"
+        app:layout_constraintTop_toBottomOf="@id/view_background" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ctl_root"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintBottom_toBottomOf="@id/view_background"
+        app:layout_constraintEnd_toEndOf="@id/view_background"
+        app:layout_constraintStart_toStartOf="@id/view_background"
+        app:layout_constraintTop_toTopOf="@id/view_background">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/ctl_emoji"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent">
+
+            <ImageView
+                android:id="@+id/iv_face"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="1dp"
+                android:minWidth="226dp"
+                android:minHeight="226dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <ImageView
+                android:id="@+id/iv_left_eye"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="2dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_right_eye"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="2dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_left_eyebrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="2dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_right_eyebrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="2dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_mouth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="2dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+
+            <ImageView
+                android:id="@+id/iv_beard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="3dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_nose"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="3dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_hair"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="3dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+
+            <ImageView
+                android:id="@+id/iv_tear"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="4dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_sweat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="4dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+
+
+            <ImageView
+                android:id="@+id/iv_glasses"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="5dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_mouth_part"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="5dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_nose_part"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="5dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_heart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="5dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+            <ImageView
+                android:id="@+id/iv_hat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="5dp"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+
+            <ImageView
+                android:id="@+id/iv_hand"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="6dp"
+                android:scaleType="fitXY"
+                app:layout_constraintStart_toStartOf="@id/iv_face"
+                app:layout_constraintTop_toTopOf="@id/iv_face" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

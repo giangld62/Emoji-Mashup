@@ -1,0 +1,45 @@
+{
+  "emojiName": "Grinning face with big eyes",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F920/eye.webp",
+      "width":        0.108,
+      "height":       0.22,
+      "marginStart":  0.283,
+      "marginTop":0.278
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F920/eye.webp",
+      "width":        0.108,
+      "height":       0.22,
+      "marginStart":  0.609,
+      "marginTop":0.278
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.193,
+      "height":       0.127,
+      "marginStart":  0.191,
+      "marginTop":0.152
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.193,
+      "height":       0.127,
+      "marginStart":  0.616,
+      "marginTop":0.152
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F920/mouth.webp",
+    "width":        0.71,
+    "height":       0.321,
+    "marginStart":  0.145,
+    "marginTop":0.583
+  }
+}

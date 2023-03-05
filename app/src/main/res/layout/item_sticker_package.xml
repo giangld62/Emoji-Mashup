@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="20dp"
+    android:layout_marginBottom="24dp"
+    android:background="@drawable/bg_white_radius_18">
+
+    <TextView
+        android:id="@+id/tv_sticker_package_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/quicksand_semi_bold"
+        android:text="@string/remix_stickers"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_stickers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="18dp"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:layout_constraintTop_toBottomOf="@id/tv_sticker_package_name"
+        app:spanCount="5" />
+
+    <View
+        android:id="@+id/view_whatsapp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="24dp"
+        android:background="@drawable/bg_solid_green_radius_110"
+        app:layout_constraintBottom_toBottomOf="@id/tv_whatsapp"
+        app:layout_constraintTop_toTopOf="@id/tv_whatsapp" />
+
+    <View
+        android:id="@+id/view_telegram"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="24dp"
+        android:background="@drawable/bg_solid_blue_radius_110"
+        app:layout_constraintBottom_toBottomOf="@id/tv_telegram"
+        app:layout_constraintTop_toTopOf="@id/tv_telegram" />
+
+
+    <TextView
+        android:id="@+id/tv_whatsapp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:drawablePadding="10dp"
+        android:fontFamily="@font/quicksand_semi_bold"
+        android:gravity="center"
+        android:paddingVertical="18dp"
+        android:text="@string/add_to_whatsapp"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:drawableLeftCompat="@drawable/whatsapp_icon"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rv_stickers" />
+
+
+    <TextView
+        android:id="@+id/tv_telegram"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="110dp"
+        android:layout_marginBottom="38dp"
+        android:drawablePadding="10dp"
+        android:fontFamily="@font/quicksand_semi_bold"
+        android:gravity="center"
+        android:paddingVertical="18dp"
+        android:text="@string/add_to_telegram"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:drawableLeftCompat="@drawable/telegram_icon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rv_stickers" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

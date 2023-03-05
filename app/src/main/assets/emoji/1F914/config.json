@@ -1,0 +1,52 @@
+{
+  "emojiName": "Thinking face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.097,
+      "height":       0.145,
+      "marginStart":  0.289,
+      "marginTop":0.365
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.097,
+      "height":       0.147,
+      "marginStart":  0.614,
+      "marginTop":0.385
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F914/left_eyebrow.webp",
+      "width":        0.226,
+      "height":       0.09,
+      "marginStart":  0.204,
+      "marginTop":0.211
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F61E/right_eyebrow.webp",
+      "width":        0.245,
+      "height":       0.063,
+      "marginStart":  0.587,
+      "marginTop":0.276
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F914/mouth.webp",
+    "width":        0.331,
+    "height":       0.088,
+    "marginStart":  0.311,
+    "marginTop":0.636
+  },
+  "hand": {
+    "link": "file:///android_asset/emoji/1F914/hand.webp",
+    "width":        0.533,
+    "height":       0.497,
+    "marginStart":  0.358,
+    "marginTop":0.623
+  }
+}

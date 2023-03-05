@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_feedback" translatable="false">support@gmail.com</string>
+    <string name="link_gg"  translatable="false">https://www.google.com/</string>
+
+    <string name="admob_id_app" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_id_ads_open" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="id_admob_native" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_id_interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ironsrc_app_key" translatable="false">85460dcd</string>
+</resources>

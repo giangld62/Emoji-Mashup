@@ -1,0 +1,52 @@
+{
+  "emojiName": "Hot face",
+  "face": {
+    "link": "file:///android_asset/emoji/1F620/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.289,
+      "marginTop":0.43
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.43
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/left_eyebrow.webp",
+      "width":        0.214,
+      "height":       0.082,
+      "marginStart":  0.191,
+      "marginTop":0.269
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/right_eyebrow.webp",
+      "width":        0.214,
+      "height":       0.082,
+      "marginStart":  0.595,
+      "marginTop":0.269
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F975/mouth.webp",
+    "width":        0.36,
+    "height":       0.317,
+    "marginStart":  0.32,
+    "marginTop":    0.705
+  },
+  "sweat": {
+    "link": "file:///android_asset/emoji/1F630/sweat.webp",
+    "width":        0.24 ,
+    "height":       0.377,
+    "marginStart":  0.017 ,
+    "marginTop":    0.059
+  }
+}

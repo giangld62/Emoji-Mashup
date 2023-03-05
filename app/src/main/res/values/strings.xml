@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Emoji Mashup</string>
+    <string name="remix_emoji">Remix Emoji</string>
+    <string name="favorite_list">Favorite List</string>
+    <string name="home">Home</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_app">Rate App</string>
+    <string name="feedback">Feedback</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="emoji_mashup">Emoji Mashup</string>
+    <string name="version">Version</string>
+    <string name="stickers">Stickers</string>
+    <string name="choose_emoji_to_mashup">Choose emoji to mashup</string>
+    <string name="random_emoji">Random Emoji</string>
+    <string name="select_emoji">Select Emoji</string>
+    <string name="done">DONE</string>
+    <string name="error">Error !</string>
+    <string name="have_no_favorite_sticker_yet">Have no favorite sticker yet!</string>
+    <string name="remix_stickers">Remix Stickers</string>
+    <string name="add_to_whatsapp">Add to Whatsapp</string>
+    <string name="add_to_telegram">Add to Telegram</string>
+    <string name="choose_one">Choose one</string>
+    <string name="send_email_report_app">Send email report app</string>
+    <string name="how_much_do_you_love_app">How much do you love our app?</string>
+    <string name="rate">RATE</string>
+    <string name="thanks_for_your_rating">Thanks for your rating</string>
+    <string name="please_rate_5_stars">Please rate 5 stars</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">Sticker pack not added. If you\'d like to add it, make sure you update to the latest version of WhatsApp.</string>
+    <string name="have_no_sticker_package_yet">Have no sticker package yet!</string>
+    <string name="add_pack_to_tele_fail">Sticker pack not added. If you\'d like to add it, make sure you install Telegram or update to the latest version of Telegram.</string>
+    <string name="add_failed">To add this sticker set, there must be a minimum of 3 stickers</string>
+</resources>

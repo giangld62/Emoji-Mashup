@@ -1,0 +1,52 @@
+{
+  "emojiName": "Loudly crying face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F62D/left_eye.webp",
+      "width":        0.254,
+      "height":       0.089,
+      "marginStart":  0.179,
+      "marginTop":0.353
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F62D/right_eye.webp",
+      "width":        0.254,
+      "height":       0.089,
+      "marginStart":  0.567,
+      "marginTop":0.353
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow5.webp",
+      "width":        0.207,
+      "height":       0.1,
+      "marginStart":  0.192,
+      "marginTop":0.195
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow5.webp",
+      "width":        0.207,
+      "height":       0.1,
+      "marginStart":  0.601,
+      "marginTop":0.195
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F62D/mouth.webp",
+    "width":        0.412,
+    "height":       0.303,
+    "marginStart":  0.294,
+    "marginTop":0.56
+  },
+  "tear": {
+    "link": "file:///android_asset/emoji/1F62D/tear.webp",
+    "width":        0.993,
+    "height":       0.612,
+    "marginStart":  0.004,
+    "marginTop":0.4
+  }
+}

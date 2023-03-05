@@ -1,0 +1,52 @@
+{
+  "emojiName": "Sleep face",
+  "face": {
+    "link": "file:///android_asset/emoji/1F924/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F62A/left_eye.webp",
+      "width":        0.231,
+      "height":       0.093,
+      "marginStart":  0.18,
+      "marginTop":0.425
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F62A/right_eye.webp",
+      "width":        0.231,
+      "height":       0.093,
+      "marginStart":  0.588,
+      "marginTop":0.425
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.21,
+      "height":       0.095,
+      "marginStart":  0.156,
+      "marginTop":0.246
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.21,
+      "height":       0.095,
+      "marginStart":  0.634,
+      "marginTop":0.246
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F634/mouth.webp",
+    "width":        0.194,
+    "height":       0.157,
+    "marginStart":  0.403,
+    "marginTop":0.684
+  },
+  "nosePart": {
+    "link": "file:///android_asset/emoji/1F634/nose_part.webp",
+    "width":        0.626,
+    "height":       0.356,
+    "marginStart":  0.432,
+    "marginTop":-0.019
+  }
+}

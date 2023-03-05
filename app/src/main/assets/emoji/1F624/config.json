@@ -1,0 +1,52 @@
+{
+  "emojiName": "Face with steam from nose",
+  "face": {
+    "link": "file:///android_asset/emoji/1F624/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F62A/left_eye.webp",
+      "width":        0.219,
+      "height":       0.091,
+      "marginStart":  0.212,
+      "marginTop":0.382
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F62A/right_eye.webp",
+      "width":        0.219,
+      "height":       0.091,
+      "marginStart":  0.57,
+      "marginTop":0.382
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F624/left_eyebrow.webp",
+      "width":        0.194,
+      "height":       0.165,
+      "marginStart":  0.238,
+      "marginTop":0.167
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F624/right_eyebrow.webp",
+      "width":        0.194,
+      "height":       0.165,
+      "marginStart":  0.568,
+      "marginTop":0.167
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F624/mouth.webp",
+    "width":        0.517,
+    "height":       0.152,
+    "marginStart":  0.233,
+    "marginTop":0.598
+  },
+  "nosePart": {
+    "link": "file:///android_asset/emoji/1F624/steam.webp",
+    "width":        0.621,
+    "height":       0.457,
+    "marginStart":  0.189,
+    "marginTop":0.543
+  }
+}

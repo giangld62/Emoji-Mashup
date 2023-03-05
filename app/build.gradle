@@ -1,0 +1,91 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+    id 'org.jetbrains.kotlin.android'
+    id 'kotlin-android'
+    id 'kotlin-kapt'
+    id 'androidx.navigation.safeargs.kotlin'
+    id 'dagger.hilt.android.plugin'
+}
+
+android {
+    compileSdk versions.compileSdkVersion
+
+    defaultConfig {
+        applicationId "com.tapbi.spark.emojimashup"
+        minSdk versions.minSdkVersion
+        targetSdk versions.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        def contentProviderAuthority = applicationId + ".stickercontentprovider"
+        // Creates a placeholder property to use in the manifest.
+        manifestPlaceholders =
+                [contentProviderAuthority: contentProviderAuthority]
+        // Adds a new field for the authority to the BuildConfig class.
+        buildConfigField("String",
+                "CONTENT_PROVIDER_AUTHORITY",
+                "\"${contentProviderAuthority}\"")
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    buildFeatures {
+        viewBinding true
+        dataBinding true
+    }
+}
+
+dependencies {
+
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    /*Core*/
+    implementation libraries.androidAppCopmpat
+    implementation libraries.multidex
+    implementation libraries.ktxCore
+    /*UI*/
+    implementation libraries.androidxNavigationKtx
+    implementation libraries.androidUICommon
+    implementation libraries.materialDesign
+    implementation libraries.hilt
+    kapt libraries.hiltKpt
+    annotationProcessor libraries.hiltAP
+
+    /*Database ( if use Room) */
+    implementation libraries.room
+    annotationProcessor libraries.roomKpt
+    kapt libraries.roomAP
+
+    implementation libraries.glide
+    annotationProcessor libraries.glideAP
+
+    implementation libraries.timberLog
+    implementation libraries.sharedPreferencesKtx
+    implementation libraries.gson
+
+    implementation platform('com.google.firebase:firebase-bom:31.1.0')
+    implementation libraries.crashFirebase
+
+    implementation 'me.relex:circleindicator:2.1.6'
+
+    // ads
+    implementation 'com.github.trungsteven:ControlAdsTrue:1.4.8'
+    implementation 'com.ironsource.sdk:mediationsdk:7.2.3.1'
+    implementation 'com.google.android.gms:play-services-ads:21.3.0'
+
+}

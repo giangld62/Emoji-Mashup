@@ -1,0 +1,45 @@
+{
+  "emojiName": "Kissing face with smiling eyes",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F973/left_eye.webp",
+      "width":        0.199,
+      "height":       0.111,
+      "marginStart":  0.208,
+      "marginTop":0.427
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F973/right_eye.webp",
+      "width":        0.199,
+      "height":       0.111,
+      "marginStart":  0.593,
+      "marginTop":0.427
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow4.webp",
+      "width":        0.189,
+      "height":       0.133,
+      "marginStart":  0.179,
+      "marginTop":0.266
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow4.webp",
+      "width":        0.189,
+      "height":       0.133,
+      "marginStart":  0.632,
+      "marginTop":0.266
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F619/mouth.webp",
+    "width":        0.237,
+    "height":       0.231,
+    "marginStart":  0.482,
+    "marginTop":0.641
+  }
+}

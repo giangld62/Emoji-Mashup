@@ -1,0 +1,45 @@
+{
+  "emojiName": "Neutral face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.289,
+      "marginTop":0.376
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.376
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow3.webp",
+      "width":        0.218,
+      "height":       0.092,
+      "marginStart":  0.192,
+      "marginTop":0.234
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow3.webp",
+      "width":        0.218,
+      "height":       0.092,
+      "marginStart":  0.59,
+      "marginTop":0.234
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F610/mouth.webp",
+    "width":        0.468,
+    "height":       0.047,
+    "marginStart":  0.266,
+    "marginTop":0.671
+  }
+}

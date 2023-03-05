@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/drawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".ui.main.MainActivity">
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <ImageView
+                android:id="@+id/iv_home_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/home_title"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/iv_drawer_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="28dp"
+                android:layout_marginEnd="20dp"
+                android:src="@drawable/drawer_icon"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tv_remix"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="52dp"
+                android:drawablePadding="12dp"
+                android:elevation="2dp"
+                android:fontFamily="@font/quicksand_semi_bold"
+                android:gravity="center"
+                android:text="@string/remix_emoji"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                app:drawableLeftCompat="@drawable/remix_btn_icon1"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/iv_home_title" />
+
+            <View
+                android:id="@+id/view_remix_emoji"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:layout_marginHorizontal="34dp"
+                android:background="@drawable/bg_stroke_white_radius_110"
+                android:clickable="true"
+                android:elevation="1dp"
+                android:focusable="true"
+                app:layout_constraintBottom_toBottomOf="@id/tv_remix"
+                app:layout_constraintTop_toTopOf="@id/tv_remix" />
+
+            <TextView
+                android:id="@+id/tv_fav"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="28dp"
+                android:drawablePadding="12dp"
+                android:elevation="2dp"
+                android:fontFamily="@font/quicksand_semi_bold"
+                android:gravity="center"
+                android:text="@string/favorite_list"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                app:drawableLeftCompat="@drawable/favorite_btn_icon1"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/view_remix_emoji" />
+
+            <View
+                android:id="@+id/view_favorite_list"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:layout_marginHorizontal="34dp"
+                android:background="@drawable/bg_stroke_white_radius_110"
+                android:clickable="true"
+                android:elevation="1dp"
+                android:focusable="true"
+                app:layout_constraintBottom_toBottomOf="@id/tv_fav"
+                app:layout_constraintTop_toTopOf="@id/tv_fav" />
+
+            <TextView
+                android:id="@+id/tv_stickers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="28dp"
+                android:drawablePadding="12dp"
+                android:elevation="2dp"
+                android:fontFamily="@font/quicksand_semi_bold"
+                android:gravity="center"
+                android:text="@string/stickers"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                app:drawableLeftCompat="@drawable/stickers_btn_icon1"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/view_favorite_list" />
+
+            <View
+                android:id="@+id/view_stickers"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:layout_marginHorizontal="34dp"
+                android:background="@drawable/bg_stroke_white_radius_110"
+                android:clickable="true"
+                android:elevation="1dp"
+                android:focusable="true"
+                app:layout_constraintBottom_toBottomOf="@id/tv_stickers"
+                app:layout_constraintTop_toTopOf="@id/tv_stickers" />
+
+            <View
+                android:id="@+id/view_img12"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/splash_img12"
+                android:translationY="50dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <com.google.android.material.navigation.NavigationView
+            android:id="@+id/nav_main"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            app:headerLayout="@layout/header_drawer"
+            app:itemHorizontalPadding="0dp"
+            app:menu="@menu/drawer_menu" />
+
+    </androidx.drawerlayout.widget.DrawerLayout>
+</layout>

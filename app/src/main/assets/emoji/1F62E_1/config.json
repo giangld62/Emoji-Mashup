@@ -1,0 +1,45 @@
+{
+  "emojiName": "Face with open mouth",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.145,
+      "marginStart":  0.289,
+      "marginTop":0.376
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.145,
+      "marginStart":  0.615,
+      "marginTop":0.376
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.19,
+      "height":       0.132,
+      "marginStart":  0.193,
+      "marginTop":0.193
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.19,
+      "height":       0.132,
+      "marginStart":  0.617,
+      "marginTop":0.193
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F62E_1/mouth.webp",
+    "width":        0.271,
+    "height":       0.271,
+    "marginStart":  0.364,
+    "marginTop":0.614
+  }
+}

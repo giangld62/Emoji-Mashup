@@ -1,0 +1,45 @@
+{
+  "emojiName": "Tired face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F629/left_eye.webp",
+      "width": 0.252,
+      "height": 0.098,
+      "marginStart": 0.177,
+      "marginTop": 0.389
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F629/right_eye.webp",
+      "width": 0.252,
+      "height": 0.098,
+      "marginStart": 0.571,
+      "marginTop": 0.389
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/left_eyebrow.webp",
+      "width": 0.214,
+      "height": 0.082,
+      "marginStart": 0.191,
+      "marginTop": 0.225
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/right_eyebrow.webp",
+      "width": 0.214,
+      "height": 0.082,
+      "marginStart": 0.595,
+      "marginTop": 0.225
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F630/mouth.webp",
+    "width": 0.33,
+    "height": 0.125,
+    "marginStart": 0.335,
+    "marginTop": 0.685
+  }
+}

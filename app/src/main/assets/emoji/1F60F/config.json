@@ -1,0 +1,45 @@
+{
+  "emojiName": "Smirking face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F612/eye.webp",
+      "width":        0.204,
+      "height":       0.128,
+      "marginStart":  0.222,
+      "marginTop":0.412
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F612/eye.webp",
+      "width":        0.204,
+      "height":       0.128,
+      "marginStart":  0.574,
+      "marginTop":0.412
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F612/left_eyebrow.webp",
+      "width":        0.197,
+      "height":       0.136,
+      "marginStart":  0.192,
+      "marginTop":0.242
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F612/right_eyebrow.webp",
+      "width":        0.207,
+      "height":       0.119,
+      "marginStart":  0.608,
+      "marginTop":0.25
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F60F/mouth.webp",
+    "width":        0.436,
+    "height":       0.183,
+    "marginStart":  0.336,
+    "marginTop":0.66
+  }
+}

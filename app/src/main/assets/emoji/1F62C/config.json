@@ -1,0 +1,45 @@
+{
+  "emojiName": "Grimacing face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.289,
+      "marginTop":0.376
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.376
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.216,
+      "height":       0.097,
+      "marginStart":  0.178,
+      "marginTop":0.231
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.216,
+      "height":       0.097,
+      "marginStart":  0.606,
+      "marginTop":0.231
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F62C/mouth.webp",
+    "width":        0.617,
+    "height":       0.231,
+    "marginStart":  0.189,
+    "marginTop":0.616
+  }
+}

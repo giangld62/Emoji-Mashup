@@ -1,0 +1,52 @@
+{
+  "emojiName": "Lying face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.png",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.288,
+      "marginTop":0.376
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.png",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.376
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F925/left_eyebrow.webp",
+      "width":        0.207,
+      "height":       0.119,
+      "marginStart":  0.19,
+      "marginTop":0.245
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F925/right_eyebrow.webp",
+      "width":        0.185,
+      "height":       0.152,
+      "marginStart": 0.614,
+      "marginTop":0.189
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F925/mouth.webp",
+    "width":        0.264,
+    "height":       0.103,
+    "marginStart":  0.354,
+    "marginTop":0.729
+  },
+  "nose": {
+    "link": "file:///android_asset/emoji/1F925/nose.png",
+    "width":        0.57,
+    "height":       0.356,
+    "marginStart":  0.44,
+    "marginTop":0.506
+  }
+}

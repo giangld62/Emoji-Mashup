@@ -1,0 +1,45 @@
+{
+  "emojiName": "Confounded face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F623/left_eye.webp",
+      "width":        0.231,
+      "height":       0.216,
+      "marginStart":  0.186,
+      "marginTop":0.345
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F623/right_eye.webp",
+      "width":        0.231,
+      "height":       0.216,
+      "marginStart":  0.583,
+      "marginTop":0.345
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/left_eyebrow.webp",
+      "width":        0.213,
+      "height":       0.086,
+      "marginStart":  0.175,
+      "marginTop":0.204
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/right_eyebrow.webp",
+      "width":        0.213,
+      "height":       0.086,
+      "marginStart":  0.611,
+      "marginTop":0.204
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F630/mouth.webp",
+    "width":        0.33,
+    "height":       0.125,
+    "marginStart":  0.335,
+    "marginTop":0.685
+  }
+}

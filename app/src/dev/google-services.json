@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712443072171",
+    "project_id": "emojimahsup",
+    "storage_bucket": "emojimahsup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712443072171:android:457d5fc53d4f1ab765f1ee",
+        "android_client_info": {
+          "package_name": "com.tapbi.spark.emojimashup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712443072171-tp0i7kcobm75ouo7caimaog5o7nchbqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAbYmApT-M-kajc7wFDFpZBwH7Bj2J84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712443072171-tp0i7kcobm75ouo7caimaog5o7nchbqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

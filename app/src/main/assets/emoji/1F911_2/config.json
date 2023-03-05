@@ -1,0 +1,45 @@
+{
+  "emojiName": "Money mouth face bitcoin",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F911_2/eye.webp",
+      "width":        0.155,
+      "height":       0.28,
+      "marginStart":  0.227,
+      "marginTop":0.281
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F911_2/eye.webp",
+      "width":        0.155,
+      "height":       0.28,
+      "marginStart":  0.617,
+      "marginTop":0.281
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.211,
+      "height":       0.093,
+      "marginStart":  0.179,
+      "marginTop":    0.165
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.211,
+      "height":       0.093,
+      "marginStart":  0.61,
+      "marginTop":    0.165
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F911_2/mouth.webp",
+    "width":        0.592,
+    "height":       0.424,
+    "marginStart":  0.204,
+    "marginTop":0.597
+  }
+}

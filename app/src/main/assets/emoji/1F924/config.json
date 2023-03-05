@@ -1,0 +1,45 @@
+{
+  "emojiName": "Drooling face",
+  "face": {
+    "link": "file:///android_asset/emoji/1F924/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F924/left_eye.webp",
+      "width":        0.225,
+      "height":       0.117,
+      "marginStart":  0.189,
+      "marginTop":0.402
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F924/right_eye.webp",
+      "width":        0.225,
+      "height":       0.117,
+      "marginStart":  0.586,
+      "marginTop":0.402
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.193,
+      "height":       0.126,
+      "marginStart":  0.137,
+      "marginTop":0.228
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.193,
+      "height":       0.126,
+      "marginStart":  0.67,
+      "marginTop":0.228
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F924/mouth.webp",
+    "width":        0.461,
+    "height":       0.318,
+    "marginStart":  0.276,
+    "marginTop":0.692
+  }
+}

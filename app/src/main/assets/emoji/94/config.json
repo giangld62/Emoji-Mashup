@@ -1,0 +1,59 @@
+{
+  "emojiName": "Joker",
+  "face": {
+    "link": "file:///android_asset/emoji/94/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/94/left_eye.webp",
+      "width":        0.1843779119,
+      "height":       0.3468784183,
+      "marginStart":  0.2349795406,
+      "marginTop":0.2597334198
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/94/right_eye.webp",
+      "width":        0.1843779119,
+      "height":       0.3468784183,
+      "marginStart":  0.5806425475,
+      "marginTop":0.2597334198
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/94/left_eyebrow.webp",
+      "width":        0.2074707288,
+      "height":       0.1004334967,
+      "marginStart":  0.1816634931,
+      "marginTop":0.2054450431
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/94/right_eyebrow.webp",
+      "width":        0.2074707288,
+      "height":       0.1004334967,
+      "marginStart":  0.6109062918,
+      "marginTop":0.2054450431
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/94/mouth.webp",
+    "width":        0.6256127699,
+    "height":       0.2541425272,
+    "marginStart":  0.1872138719,
+    "marginTop":0.6130535186
+  },
+  "nose": {
+    "link": "file:///android_asset/emoji/94/nose.webp",
+    "width":        0.1837702062,
+    "height":       0.1618117733,
+    "marginStart":  0.4081351537,
+    "marginTop":0.4781428514
+  },
+  "hair": {
+    "link": "file:///android_asset/emoji/94/hair.webp",
+    "width":        1.366608597,
+    "height":       1.050034437,
+    "marginStart":  -0.1831625005,
+    "marginTop":-0.0746667747
+  }
+}

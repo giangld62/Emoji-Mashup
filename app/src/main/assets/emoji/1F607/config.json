@@ -1,0 +1,52 @@
+{
+  "emojiName": "Smiling face with halo",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F973/left_eye.webp",
+      "width":        0.199,
+      "height":       0.111,
+      "marginStart":  0.207,
+      "marginTop":0.383
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F973/right_eye.webp",
+      "width":        0.199,
+      "height":       0.111,
+      "marginStart":  0.594,
+      "marginTop":0.383
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.189,
+      "height":       0.133,
+      "marginStart":  0.179,
+      "marginTop":0.222
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.189,
+      "height":       0.133,
+      "marginStart":  0.632,
+      "marginTop":0.222
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F913/mouth.webp",
+    "width":        0.453,
+    "height":       0.138,
+    "marginStart":  0.274,
+    "marginTop":0.646
+  },
+  "hat": {
+    "link": "file:///android_asset/emoji/1F607/halo.webp",
+    "width":        0.972,
+    "height":       0.247,
+    "marginStart":  0.014,
+    "marginTop":0.033
+  }
+}

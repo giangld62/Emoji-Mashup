@@ -1,0 +1,45 @@
+{
+  "emojiName": "Anguished face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.147,
+      "marginStart": 0.289,
+      "marginTop": 0.374
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.147,
+      "marginStart": 0.615,
+      "marginTop": 0.374
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width": 0.208,
+      "height": 0.101,
+      "marginStart": 0.181,
+      "marginTop": 0.206
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width": 0.208,
+      "height": 0.101,
+      "marginStart": 0.611,
+      "marginTop": 0.206
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F62F_2/mouth.webp",
+    "width": 0.226,
+    "height": 0.302,
+    "marginStart": 0.387,
+    "marginTop": 0.599
+  }
+}

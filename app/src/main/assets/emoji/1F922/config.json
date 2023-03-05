@@ -1,0 +1,45 @@
+{
+  "emojiName": "Nauseated face",
+  "face": {
+    "link": "file:///android_asset/emoji/1F922/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F922/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.289,
+      "marginTop":0.313
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F922/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.313
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F922/left_eyebrow.webp",
+      "width":        0.186,
+      "height":       0.137,
+      "marginStart":  0.185,
+      "marginTop":0.14
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F922/right_eyebrow.webp",
+      "width":        0.186,
+      "height":       0.137,
+      "marginStart":  0.629,
+      "marginTop":0.14
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F922/mouth.webp",
+    "width":        0.411,
+    "height":       0.158,
+    "marginStart":  0.293,
+    "marginTop":0.621
+  }
+}

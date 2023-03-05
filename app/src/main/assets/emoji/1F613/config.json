@@ -1,0 +1,52 @@
+{
+  "emojiName": "Pensive face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F62A/left_eye.webp",
+      "width":        0.232,
+      "height":       0.092,
+      "marginStart":  0.186,
+      "marginTop":0.47
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F62A/right_eye.webp",
+      "width":        0.232,
+      "height":       0.092,
+      "marginStart":  0.582,
+      "marginTop":0.47
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/left_eyebrow.webp",
+      "width":        0.202,
+      "height":       0.112,
+      "marginStart":  0.163,
+      "marginTop":0.281
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/right_eyebrow.webp",
+      "width":        0.202,
+      "height":       0.112,
+      "marginStart":  0.635,
+      "marginTop":0.281
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F630/mouth.webp",
+    "width":        0.33,
+    "height":       0.125,
+    "marginStart":  0.335 ,
+    "marginTop":    0.685
+  },
+  "sweat": {
+    "link": "file:///android_asset/emoji/1F630/sweat.webp",
+    "width":        0.241,
+    "height":       0.378,
+    "marginStart":  0.017 ,
+    "marginTop":    0.058
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "emojiName": "Smiling face with heart-eyes",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F60D/left_eye.webp",
+      "width":        0.384,
+      "height":       0.374,
+      "marginStart":  0.072,
+      "marginTop":    0.201
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F60D/right_eye.webp",
+      "width":        0.384,
+      "height":       0.374,
+      "marginStart":  0.552,
+      "marginTop":    0.201
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F920/mouth.webp",
+    "width":        0.692,
+    "height":       0.295,
+    "marginStart":  0.155,
+    "marginTop":    0.636
+  }
+}

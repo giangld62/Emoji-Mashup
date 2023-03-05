@@ -1,0 +1,52 @@
+{
+  "emojiName": "Yawning face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F924/left_eye.webp",
+      "width":        0.225,
+      "height":       0.12,
+      "marginStart":  0.192,
+      "marginTop":0.378
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F924/right_eye.webp",
+      "width":        0.225,
+      "height":       0.12,
+      "marginStart":  0.583,
+      "marginTop":0.378
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.21,
+      "height":       0.095,
+      "marginStart":  0.156,
+      "marginTop":0.246
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.21,
+      "height":       0.095,
+      "marginStart":  0.634,
+      "marginTop":0.246
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F92D_2/mouth.webp",
+    "width":        0.424,
+    "height":       0.353,
+    "marginStart":  0.29,
+    "marginTop":0.573
+  },
+  "hand": {
+    "link": "file:///android_asset/emoji/1F92D_1/hand.webp",
+    "width":        1,
+    "height":       1,
+    "marginStart":  0,
+    "marginTop":0.075
+  }
+}

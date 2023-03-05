@@ -1,0 +1,38 @@
+{
+  "emojiName": "Face without mouth",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.289,
+      "marginTop":0.376
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.376
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F61E/left_eyebrow.webp",
+      "width":        0.217,
+      "height":       0.073,
+      "marginStart":  0.175,
+      "marginTop":0.277
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F61E/right_eyebrow.webp",
+      "width":        0.217,
+      "height":       0.073,
+      "marginStart":  0.609,
+      "marginTop":0.277
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "emojiName": "Clown face",
+  "face": {
+    "link": "file:///android_asset/emoji/1F921/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F921/eye.webp",
+      "width":        0.104,
+      "height":       0.16,
+      "marginStart":  0.284,
+      "marginTop":0.368
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F921/eye.webp",
+      "width":        0.104,
+      "height":       0.16,
+      "marginStart":  0.611,
+      "marginTop":0.368
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F921/left_eyebrow.webp",
+      "width":        0.207,
+      "height":       0.1,
+      "marginStart":  0.182,
+      "marginTop":0.205
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F921/right_eyebrow.webp",
+      "width":        0.207,
+      "height":       0.1,
+      "marginStart":  0.611,
+      "marginTop":0.205
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F921/mouth.webp",
+    "width":        0.71,
+    "height":       0.321,
+    "marginStart":  0.145,
+    "marginTop":0.583
+  },
+  "nose": {
+    "link": "file:///android_asset/emoji/1F921/nose.webp",
+    "width":        0.218,
+    "height":       0.202,
+    "marginStart":  0.383,
+    "marginTop":0.457
+  },
+  "hat": {
+    "link": "file:///android_asset/emoji/1F921/hat.webp",
+    "width":        0.483,
+    "height":       0.3,
+    "marginStart":  0.258,
+    "marginTop":-0.125
+  },
+  "hair": {
+    "link": "file:///android_asset/emoji/1F921/hair.webp",
+    "width":        1.177,
+    "height":       0.445,
+    "marginStart":  -0.077,
+    "marginTop":-0.038
+  }
+}

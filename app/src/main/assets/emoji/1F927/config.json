@@ -1,0 +1,52 @@
+{
+  "emojiName": "Sneezing face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F623/left_eye.webp",
+      "width":        0.231,
+      "height":       0.216,
+      "marginStart":  0.186,
+      "marginTop":0.345
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F623/right_eye.webp",
+      "width":        0.231,
+      "height":       0.216,
+      "marginStart":  0.583,
+      "marginTop":0.345
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/left_eyebrow.webp",
+      "width":        0.217,
+      "height":       0.073,
+      "marginStart":  0.175,
+      "marginTop":0.213
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F629/right_eyebrow.webp",
+      "width":        0.217,
+      "height":       0.073,
+      "marginStart":  0.609,
+      "marginTop":0.213
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F927/mouth.webp",
+    "width":        0.56,
+    "height":       0.114,
+    "marginStart":  0.22,
+    "marginTop":0.683
+  },
+  "nosePart": {
+    "link": "file:///android_asset/emoji/1F927/nose_part.webp",
+    "width":        0.552,
+    "height":       0.433,
+    "marginStart":  0.008,
+    "marginTop":0.544
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "emojiName": "Smiling face with hearts",
+  "face": {
+    "link": "file:///android_asset/emoji/1F974/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F924/left_eye.webp",
+      "width":        0.229,
+      "height":       0.105,
+      "marginStart":  0.191,
+      "marginTop":    0.438
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F924/right_eye.webp",
+      "width":        0.229,
+      "height":       0.105,
+      "marginStart":  0.581,
+      "marginTop":    0.438
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.217,
+      "height":       0.1,
+      "marginStart":  0.175,
+      "marginTop":    0.277
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.217,
+      "height":       0.1,
+      "marginStart":  0.609 ,
+      "marginTop":    0.277
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/263A_1/mouth.webp",
+    "width":        0.324,
+    "height":       0.133,
+    "marginStart":  0.338,
+    "marginTop":    0.7
+  },
+  "heart": {
+    "link": "file:///android_asset/emoji/1F970/heart.webp",
+    "width":        1.044,
+    "height":       1.055,
+    "marginStart":  -0.031,
+    "marginTop":    -0.034
+  }
+}

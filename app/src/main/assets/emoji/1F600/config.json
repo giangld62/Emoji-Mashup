@@ -1,0 +1,45 @@
+{
+  "emojiName": "Grinning face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.147,
+      "marginStart":  0.289,
+      "marginTop":0.337
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width":        0.096,
+      "height":       0.147,
+      "marginStart":  0.615,
+      "marginTop":0.337
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.211,
+      "height":       0.093,
+      "marginStart":  0.179,
+      "marginTop":0.208
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.211,
+      "height":       0.093,
+      "marginStart":  0.61,
+      "marginTop":0.208
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F920/mouth.webp",
+    "width":        0.71,
+    "height":       0.321,
+    "marginStart":  0.145,
+    "marginTop":0.583
+  }
+}

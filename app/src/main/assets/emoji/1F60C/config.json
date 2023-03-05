@@ -1,0 +1,45 @@
+{
+  "emojiName": "Relieved face",
+  "face": {
+    "link": "file:///android_asset/emoji/1F924/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F62A/left_eye.webp",
+      "width":        0.219,
+      "height":       0.089,
+      "marginStart":  0.191,
+      "marginTop":0.407
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F62A/right_eye.webp",
+      "width":        0.219,
+      "height":       0.089,
+      "marginStart":  0.589,
+      "marginTop":0.407
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.209,
+      "height":       0.097,
+      "marginStart":  0.157,
+      "marginTop":0.233
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.209,
+      "height":       0.097,
+      "marginStart":  0.633,
+      "marginTop":0.233
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F913/mouth.webp",
+    "width":        0.453,
+    "height":       0.138,
+    "marginStart":  0.274,
+    "marginTop":0.646
+  }
+}

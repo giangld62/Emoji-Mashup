@@ -1,0 +1,30 @@
+{
+  "emojiName": "Exploding Head",
+  "face": {
+    "link": "file:///android_asset/emoji/1F92F/face.webp",
+    "ratio": 0.9661654135
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.141,
+      "marginStart": 0.289,
+      "marginTop": 0.518
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/default/eye.webp",
+      "width": 0.096,
+      "height": 0.141,
+      "marginStart": 0.615,
+      "marginTop": 0.518
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F92F/mouth.webp",
+    "width": 0.349,
+    "height": 0.16,
+    "marginStart": 0.326,
+    "marginTop": 0.719
+  }
+}

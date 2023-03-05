@@ -1,0 +1,45 @@
+{
+  "emojiName": "Angry face",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F621/left_eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.289,
+      "marginTop":0.481
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F621/right_eye.webp",
+      "width":        0.096,
+      "height":       0.146,
+      "marginStart":  0.615,
+      "marginTop":0.481
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/1F621/left_eyebrow.webp",
+      "width":        0.209,
+      "height":       0.137,
+      "marginStart":  0.231,
+      "marginTop":0.377
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/1F621/right_eyebrow.webp",
+      "width":        0.209,
+      "height":       0.137,
+      "marginStart":  0.561,
+      "marginTop":0.377
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F621/mouth.webp",
+    "width":        0.287,
+    "height":       0.117,
+    "marginStart":  0.356,
+    "marginTop":0.703
+  }
+}

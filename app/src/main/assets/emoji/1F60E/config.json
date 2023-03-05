@@ -1,0 +1,52 @@
+{
+  "emojiName": "Smiling face with sunglasses",
+  "face": {
+    "link": "file:///android_asset/emoji/default/face.webp"
+  },
+  "eyes": {
+    "leftEye": {
+      "link": "file:///android_asset/emoji/1F924/left_eye.webp",
+      "width":        0.242,
+      "height":       0.101,
+      "marginStart":  0.172,
+      "marginTop":0.382
+    },
+    "rightEye": {
+      "link": "file:///android_asset/emoji/1F924/right_eye.webp",
+      "width":        0.242,
+      "height":       0.101,
+      "marginStart":  0.585,
+      "marginTop":0.382
+    }
+  },
+  "eyebrows": {
+    "leftEyebrow": {
+      "link": "file:///android_asset/emoji/default/left_eyebrow.webp",
+      "width":        0.211,
+      "height":       0.092,
+      "marginStart":  0.179,
+      "marginTop":0.208
+    },
+    "rightEyebrow": {
+      "link": "file:///android_asset/emoji/default/right_eyebrow.webp",
+      "width":        0.211,
+      "height":       0.092,
+      "marginStart":  0.61,
+      "marginTop":0.208
+    }
+  },
+  "mouth": {
+    "link": "file:///android_asset/emoji/1F913/mouth.webp",
+    "width":        0.453,
+    "height":       0.138,
+    "marginStart":  0.274,
+    "marginTop":0.671
+  },
+  "glasses": {
+    "link": "file:///android_asset/emoji/1F60E/glasses.webp",
+    "width":        0.975,
+    "height":       0.366,
+    "marginStart":  0.012,
+    "marginTop":    0.27
+  }
+}
